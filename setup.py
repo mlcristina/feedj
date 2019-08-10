@@ -41,7 +41,7 @@ DESCRIPTION = (
     "feeding j"
 )
 URL = "https://github.com/mlcristina/feedj"
-DOWNLOAD_URL = "%s/archive/0.0.0.tar.gz" % URL
+DOWNLOAD_URL = "%s/archive/0.0.1.tar.gz" % URL
 FILES = ["README.rst", "CHANGELOG.rst"]
 KEYWORDS = [
     "python",
