@@ -1,0 +1,14 @@
+name: "feedj"
+organisation: "mlcristina"
+author: "mcc"
+contact: "cristina.caputo+test@gmail.com"
+company: "none"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019
+command_line_interface: "feedj"
+entry_point: "feedj.main:main"
+license: none
+dependencies: []
+description: "feeding j"
